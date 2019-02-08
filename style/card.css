@@ -1,0 +1,57 @@
+#card{
+	background-color: white;
+	margin:3px;
+	display: flex;
+	flex-direction: column;
+	border: solid grey 1px;
+	border-radius: 5px;
+	width: 32%
+}
+
+#cardbtn{
+	display: flex;
+	justify-content: space-between;
+	margin: 10px;
+	margin-bottom: 20px;
+}
+
+#cardimg{
+	border-radius: 5px;
+}
+
+#cardtitle{
+	font-size: 30px;
+}
+
+#commentbtn{
+	text-align: center;
+	padding: 0px;
+	width: 40px;
+	height: 40px;
+	background-color: white;
+	
+}
+
+#commentinput{
+	display: flex;
+	justify-content: space-between;
+	margin:2%;
+	font-size: 20px;
+}
+
+#commentlist{
+	display: flex;
+	justify-content: space-between;
+	margin: 2%;
+
+}
+
+#commentlist2{
+	width:80%;
+	border-color: white;
+	font-size:20px;
+}
+
+#collapsebtn{
+	margin-left: 1%;
+}

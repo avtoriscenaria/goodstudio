@@ -1,0 +1,24 @@
+@import url("products.css");
+@import url("login.css");
+@import url("account.css");
+@import url("checkin.css");
+@import url("card.css");
+
+#account{
+	display: flex;
+	justify-content: flex-start;
+
+}
+ 
+#user{
+	background-color: #8fad8c;
+	height:100%;
+	position: fixed;
+	width: 25%;
+	
+}
+
+body{
+	background-color: #805d37;
+}
+

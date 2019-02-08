@@ -1,0 +1,64 @@
+#adds{
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+}
+
+#addbtn{
+	width: 85%;
+	height: 200px;
+	margin-left: 5%;
+	margin-top: 20px;
+	border-radius: 5px;
+	background-color:  white;
+	font-size:20px;
+	margin-bottom: 5px;
+}
+
+#addbtn2{
+	width: 40%;
+	height: 50px;
+	margin-left: 2%;
+	margin-top: 20px;
+	border-radius: 5px;
+	background-color:  white;
+	font-size: 18px;
+	margin-bottom: 5px;
+}
+
+#addbtns{
+	display: flex;
+	justify-content: space-around;
+}
+
+#addmenu{
+	padding-top: 5px;
+	width: 100%;
+	background-color: grey;
+	text-align: center;
+	border-radius: 5px;
+	display: flex;
+	flex-direction: column;
+	margin-top: 20px;
+}
+
+#addprodinput{
+	margin-left: 5%;
+	width:85%;
+	height:50px;
+	font-size: 18px;
+	margin-bottom: 25px;
+	border-radius: 5px;
+	padding-left: 10px;
+}
+
+#logoutbtn{
+	width: 40%;
+	height: 50px;
+	margin-left: 25%;
+	margin-top: 20px;
+	border-radius: 5px;
+	background-color:  white;
+	font-size: 18px;
+	margin-bottom: 5px;
+}

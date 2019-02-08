@@ -1,0 +1,23 @@
+#interface{
+	width: 75%;
+	
+	display: flex;
+	flex-direction: column;
+	margin-left: 25%;
+}
+
+#products{
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-around;
+	justify-content: space-around;
+}
+
+
+
+
+
+#input{
+	width: 80%;
+	border-radius: 5px;
+}
